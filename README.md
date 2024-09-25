@@ -1,3 +1,3 @@
 # NUFORC
 
-Mapping of UFO/UAP sightings from CSV data.
+Jupyter Notebook Folium map of UFO/UAP sightings from CSV data.
